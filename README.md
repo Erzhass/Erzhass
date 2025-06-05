@@ -1,4 +1,4 @@
-<h1 align="center">👋 Halo! Saya Falza</h1>
+<h1 align="center">👋 Halo! Saya Erzha</h1>
 
 <p align="center">
   Seorang pelajar dan pengembang yang tertarik pada dunia web development, game, dan pemrograman. <br>
