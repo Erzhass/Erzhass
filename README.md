@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Erzhass/Erzhass/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
